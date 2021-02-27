@@ -3,7 +3,7 @@ import colors from "../../Constants/colors"
 const styles = {
     primary: {
         backgroundColor: colors.primary,
-        color: colors.secundary,
+        color: colors.secondary,
         fontWeight: 'bold',
         width: '20vw',
         height: '5vh',
@@ -17,7 +17,7 @@ const styles = {
     },
 
     secondary: {
-        backgroundColor: colors.secundary,
+        backgroundColor: colors.secondary,
         color: colors.primary,
         fontWeight: 'bold',
         width: '20vw',

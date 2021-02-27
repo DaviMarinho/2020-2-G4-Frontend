@@ -18,7 +18,8 @@ const styles = {
         alignItems: 'center', 
         flexDirection: 'column',
         boxShadow: '0px 4px 4px rgba(0,0,0,0.25)',
-        borderRadius: '8px'
+        borderRadius: '8px',
+        marginTop: "15vh"
         
     },
 
